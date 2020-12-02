@@ -1,0 +1,16 @@
+QWidget
+{
+        background-color: Lightslategray;
+        color: white;
+}
+
+QLabel
+{
+        background-color: Lightslategray;
+}
+
+QDialog {
+
+        background-color: Lightslategray;
+
+}
